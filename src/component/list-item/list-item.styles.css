@@ -1,0 +1,20 @@
+.list .list-button{
+    padding: 0px;
+}
+
+.list .list-icon{
+    width: 5%;
+    justify-content: center;
+}
+
+.list .title{
+    width: 365px;
+    font-size: 16px;
+    font-family: 微軟正黑體;
+}
+
+.list .author{
+    width: 180px;
+    font-size: 16px;
+    font-family: 微軟正黑體;
+}
