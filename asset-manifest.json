@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/times.hinet/static/css/main.e118c649.chunk.css",
+    "main.js": "/times.hinet/static/js/main.4d6a5ac1.chunk.js",
+    "main.js.map": "/times.hinet/static/js/main.4d6a5ac1.chunk.js.map",
+    "runtime-main.js": "/times.hinet/static/js/runtime-main.d606a57e.js",
+    "runtime-main.js.map": "/times.hinet/static/js/runtime-main.d606a57e.js.map",
+    "static/js/2.2590a1e3.chunk.js": "/times.hinet/static/js/2.2590a1e3.chunk.js",
+    "static/js/2.2590a1e3.chunk.js.map": "/times.hinet/static/js/2.2590a1e3.chunk.js.map",
+    "static/js/3.91750d85.chunk.js": "/times.hinet/static/js/3.91750d85.chunk.js",
+    "static/js/3.91750d85.chunk.js.map": "/times.hinet/static/js/3.91750d85.chunk.js.map",
+    "index.html": "/times.hinet/index.html",
+    "static/css/main.e118c649.chunk.css.map": "/times.hinet/static/css/main.e118c649.chunk.css.map",
+    "static/js/2.2590a1e3.chunk.js.LICENSE.txt": "/times.hinet/static/js/2.2590a1e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d606a57e.js",
+    "static/js/2.2590a1e3.chunk.js",
+    "static/css/main.e118c649.chunk.css",
+    "static/js/main.4d6a5ac1.chunk.js"
+  ]
+}
